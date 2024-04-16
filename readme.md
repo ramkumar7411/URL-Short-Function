@@ -2,7 +2,7 @@
 This is a simple Django project implemented to work as an efficient and high-speed URL Shortener. 
 Async tasks are handled using Celery. Furthermore, in order to optimize the response time, this project uses Redis as a cache backend. Some tiny optimizations are also performed in Views.
 
-## Table of contents
+## Table of contents 
 
 - [Requirements](#requirements)
 - [Getting started](#getting-started)
