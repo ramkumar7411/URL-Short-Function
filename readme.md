@@ -7,6 +7,7 @@ Async tasks are handled using Celery. Furthermore, in order to optimize the resp
 - [Requirements](#requirements)
 - [Getting started](#getting-started)
 
+
 ## Requirements
 
 * [Python3](https://www.python.org/)
